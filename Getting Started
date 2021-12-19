@@ -14,6 +14,10 @@ Table of Contents
     v. Right click on the name of an existing node to delete it.
     vi. Click on a dialogue selection node ( it looks like []) to connect it to an existing node
     vii. To add a new connected node, click a dialogue selection node then right click in an empty space.
+    
+    
+    
+    ??. To exit the screen, hit the ESC key
   c. Entity Commands
     i. _@p _ . Reference the player's name
     ii. _ @npc _ . reference the NPC's name
@@ -26,6 +30,7 @@ For reference to an older version, check out Flash's showcase for this mod: http
 
   1. Get the NPC Editor tool from the creative inventory.
   2. Right-click on an empty block, and a window will come up with 3 labeled text boxes. Underneath those will be 3 color sliders. Next to the text boxes will be two check boxes. In the far bottom right corner of the screen will be 3 buttons.
+  To exti the screen, hit the ESC key.
   The 3 textboxes are as follows:
       a. _Name_. Name your NPC whatever you wish
       b. _Texture_. This is the text for the model of your NPC. It may take some experimenting to get the right link, but you can start with https://mineskin.org/ . There, you can search their collection of skins or make your own. 
@@ -33,7 +38,7 @@ For reference to an older version, check out Flash's showcase for this mod: http
   The color sliders can be manipulated to change the text color of your NPC's dialogue text.
   The checkboxes next to the textboxes
     a. _Visible?_. Thsi determines if the NPC's name is visible.
-    b. _Slim_ . This slims the arms of the NPC.
+    b. _Slim_ . This slims the arms of the NPC. If they are wearing torso equipment, this will not make much visual difference.
   The three buttons in the bottom right corner of the screen
     a. _Trades_
     b. _Inventory_
@@ -44,5 +49,5 @@ For reference to an older version, check out Flash's showcase for this mod: http
  In the text box labeled _Dialogue_, type in the name of a dialogue sequence. Once that is done, confirm the change.
  
  
- Dialogue Node
+ Dialogue Nodes
  
