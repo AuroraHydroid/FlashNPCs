@@ -1,3 +1,25 @@
+Table of Contents
+1. Tools
+    a. NPC Editor
+    b. Quest Editor
+2. Menus and Commands
+  a. NPC Editor menu
+    i. Right click with the NPC editor on either an existing NPC or an empty block to place an NPC in that location
+    ii. To remove an NPC, 
+  b. Dialogue screen
+    i. To enter the dialogue editor, shift + right click an NPC with the NPC editor. They must have a named dialogue sequence for this to work
+    ii. Hold left click in an empty space to move the screen around.
+    iii. Hold left click on a dialogue node selection node (it looks like [+] next to the node) to drag it around
+    iv. Right click in an empty space to add a new node.
+    v. Right click on the name of an existing node to delete it.
+    vi. Click on a dialogue selection node ( it looks like []) to connect it to an existing node
+    vii. To add a new connected node, click a dialogue selection node then right click in an empty space.
+  c. Entity Commands
+    i. _@p _ . Reference the player's name
+    ii. _ @npc _ . reference the NPC's name
+
+
+
 --Getting Started--
 Keep in mind: this mod must be done in Creative mode
 For reference to an older version, check out Flash's showcase for this mod: https://www.youtube.com/watch?v=GO_SpJBUwRg
@@ -8,7 +30,7 @@ For reference to an older version, check out Flash's showcase for this mod: http
       a. _Name_. Name your NPC whatever you wish
       b. _Texture_. This is the text for the model of your NPC. It may take some experimenting to get the right link, but you can start with https://mineskin.org/ . There, you can search their collection of skins or make your own. 
       c. _Dialogue_
-  The color sliders can be manipulated to change the text color of your noc's dialogue text.
+  The color sliders can be manipulated to change the text color of your NPC's dialogue text.
   The checkboxes next to the textboxes
     a. _Visible?_. Thsi determines if the NPC's name is visible.
     b. _Slim_ . This slims the arms of the NPC.
@@ -16,3 +38,11 @@ For reference to an older version, check out Flash's showcase for this mod: http
     a. _Trades_
     b. _Inventory_
     c. _Confirm_. This confirms all the changes that you've done to the NPC
+    
+    
+-Dialogue-
+ In the text box labeled _Dialogue_, type in the name of a dialogue sequence. Once that is done, confirm the change.
+ 
+ 
+ Dialogue Node
+ 
