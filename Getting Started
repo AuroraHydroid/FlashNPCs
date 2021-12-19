@@ -1,0 +1,18 @@
+--Getting Started--
+Keep in mind: this mod must be done in Creative mode
+For reference to an older version, check out Flash's showcase for this mod: https://www.youtube.com/watch?v=GO_SpJBUwRg
+
+  1. Get the NPC Editor tool from the creative inventory.
+  2. Right-click on an empty block, and a window will come up with 3 labeled text boxes. Underneath those will be 3 color sliders. Next to the text boxes will be two check boxes. In the far bottom right corner of the screen will be 3 buttons.
+  The 3 textboxes are as follows:
+      a. _Name_. Name your NPC whatever you wish
+      b. _Texture_. This is the text for the model of your NPC. It may take some experimenting to get the right link, but you can start with https://mineskin.org/ . There, you can search their collection of skins or make your own. 
+      c. _Dialogue_
+  The color sliders can be manipulated to change the text color of your noc's dialogue text.
+  The checkboxes next to the textboxes
+    a. _Visible?_. Thsi determines if the NPC's name is visible.
+    b. _Slim_ . This slims the arms of the NPC.
+  The three buttons in the bottom right corner of the screen
+    a. _Trades_
+    b. _Inventory_
+    c. _Confirm_. This confirms all the changes that you've done to the NPC
